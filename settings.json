@@ -1,0 +1,23 @@
+{
+  "token": "NjkyMTcxNzUxODMyMTU4MjM4.XnqpQw.5FHucn3EHX4eVK35Gbn_zPMDc7Y",
+  "prefix": "!!",
+  "managers": [
+    "692161671678132335",
+    ""
+  ],
+  "presence": "online",
+  "status": [
+    {
+      "type": 3,
+      "name": "Over {guildcount} Servers!"
+    },
+    {
+      "type": 3,
+      "name": "Over {usercount} Members!"
+    },
+    {
+      "type": 0,
+      "name": "Drxxy#3671 For Bots!"
+    }
+  ]
+}
