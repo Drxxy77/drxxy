@@ -798,4 +798,4 @@ bot.on("voiceStateUpdate", (member, oldState) => {
   }
 });
 
-bot.login(process.env.BOT_TOKEN);
+bot.connect(process.env.BOT_TOKEN);
