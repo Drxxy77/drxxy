@@ -1,0 +1,1 @@
+worker: noode bot.js
